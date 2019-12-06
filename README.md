@@ -1,0 +1,3 @@
+# WeatherWidget
+
+Initial Setup
